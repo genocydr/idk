@@ -1,8 +1,8 @@
 Material,Texture_Top_Tiling,Texture_Top_Detiling,Texture_Top_Rotation,Texture_Top_Blend_Min,Texture_Top_Blend_Max,Texture_Top_Blend_Scale,Texture_Top_TexturePackId,Texture_Side_Tiling,Texture_Side_Detiling,Texture_Side_Blend_Min,Texture_Side_Blend_Max,Texture_Side_Blend_Scale,Texture_Side_TexturePackId,Texture_Bottom_Tiling,Texture_Bottom_Detiling,Texture_Bottom_Blend_Min,Texture_Bottom_Blend_Max,Texture_Bottom_Blend_Scale,Texture_Bottom_TexturePackId,rbxassetid_2022,rbxassetid_pre2022
-Air,,,,,,,rbxassetid://,rbxassetid://,rbxassetid://,rbxassetid://,,,,,,,,,,,
-Water,,,0.5,,,,,,,,,,,,,,,,,,
+Air,,,,,,,rbxassetid://,rbxassetid://,rbxassetid://,rbxassetid://,,
+Water,,,0.5,,,,,,,,,,
 Grass,0.5,3.717,0.5,0.032,0.308,0.603,rbxassetid://9920552044,0.5,5,0.196,0.419,0.611,rbxassetid://9932815429,0.5,2.222,0.467,0.552,0.93,rbxassetid://9933024903,rbxassetid://7547336797,rbxassetid://7551928998
-Slate,,,0.292,0.484,1,rbxassetid://9920600052,,,2.222,0.398,0.738,0.75,rbxassetid://9920614301,,,,,rbxassetid://7547627210,,,,,
+Slate,,,0.292,0.484,1,rbxassetid://9920600052,,,2.222,0.398,0.738,0.75,rbxassetid://9920614301,,,,,rbxassetid://7547627210,
 Concrete,0.5,3.134,,0.121,0.403,0.583,rbxassetid://9920484334,0.5,2.5,-0.05,1,0.0552,rbxassetid://7547337977,,,,,rbxassetid://7547630026,
 Brick,,,1,0.133,0.621,0.263,rbxassetid://9920482992,,,,,,rbxassetid://7547633775,,,,,,
 Sand,0.5,3.793,,0.017,0.798,0.72,rbxassetid://9920591862,0.5,10,0.377,0.744,0.528,rbxassetid://9920592389,,,,,rbxassetid://7547636223,rbxassetid://7546659291
