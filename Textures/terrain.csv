@@ -1,0 +1,24 @@
+Material Name,Texture Top Tiling,Texture Top Detiling,Texture Top Rotation,Texture Top Blend Min,Texture Top Blend Max,Texture Top Blend Scale,Texture Top TexturePackId,Texture Side Tiling,Texture Side Detiling,Texture Side Blend Min,Texture Side Blend Max,Texture Side Blend Scale,Texture Side TexturePackId,Texture Bottom Tiling,Texture Bottom Detiling,Texture Bottom Blend Min,Texture Bottom Blend Max,Texture Bottom Blend Scale,Texture Bottom TexturePackId
+Air,,,,,,,,
+Water,,,0.5,,,,,,,,,
+Grass,0.5,3.717,0.5,0.032,0.308,0.603,rbxassetid://9920552044,0.5,5,0.196,0.419,0.611,rbxassetid://9932815429,0.5,2.222,0.467,0.552,0.93,rbxassetid://9933024903
+Slate,,,0.1,,,,rbxassetid://7547627210,,,,,,,
+Concrete,0.5,3.134,,0.121,0.403,0.583,rbxassetid://9920484334,0.4,2.5,-0.05,0.9498,0.1602,rbxassetid://7547630026,,,,
+Brick,,,0.8,0.1668,0.767,0.1397,rbxassetid://7547633775,,,,,,,
+Sand,,3.793,,,,,rbxassetid://7547636223,0.25,1.818,0.1668,0.9829,0.3947,rbxassetid://7546659291,,,,
+WoodPlanks,,,0.8,0.15,0.883,0.000099999,rbxassetid://7547642685,,,,,,,
+Rock,,1.73,0,0.05,0.4,0.0798,rbxassetid://7547645700,,,,,,,
+Glacier,0.5,6,,,,,rbxassetid://7551935562,0.2,1.1108,0.1168,0.833,0.165,rbxassetid://7551944502,0.5,6,0.4499,1.1,0.3197,rbxassetid://7551949364
+Snow,,,0.1,-0.067,0.8999,0.4649,rbxassetid://7551952124,,,,,,,
+Sandstone,,7.222,0.5,0.067,1.2,0.2849,rbxassetid://7551956653,0.2998,2,0.05,0.6169,0.225,rbxassetid://7551965250,0.45,3.333,-0.0829,1.1,0.4199,rbxassetid://7552020001
+Mud,,1.3,,,,,rbxassetid://7552025321,,,,,,,
+Basalt,,1,,,,,rbxassetid://7551978967,,,,,,,
+Ground,,2.79,0.5,0.2669,0.933,0.195,rbxassetid://7547349135,,,,,,,
+CrackedLava,0.28,2,0.5,-0.067,0.85,0.2148,rbxassetid://7551983669,,,,,,,
+Asphalt,0.25,2.898,,0.3,1.0326,0.24,rbxassetid://7551987784,0.2,1.1108,-0.017,0.967,0.1096,rbxassetid://7551990829,,,,
+Cobblestone,,,0.1499,0.133,1.167,0.2597,rbxassetid://7551995071,0.2,1.1108,-0.1,0.5669,0.1998,rbxassetid://7547650812,,,,
+Ice,,,0.1499,,,,,,,,,
+LeafyGrass,,,1,0.017,0.767,0.2898,rbxassetid://7546664715,0.25,4,0.133,0.75,0.1902,rbxassetid://7546666342,,,,
+Salt,,2,,,,,rbxassetid://7547663777,0.2,1.1108,-0.067,0.9168,0.2597,rbxassetid://7547669153,,,,
+Limestone,,6,0.1,0.1668,0.9168,0.3498,rbxassetid://7547673056,0.25,2,,0,0.967,0.135,rbxassetid://7547676869,,,,
+Pavement,0.46,4,,0.2169,0.9829,0.12,rbxassetid://7547679257,0.46,4,-0.133,1.067,0.1152,rbxassetid://7547684004,,,,
