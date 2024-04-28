@@ -51,7 +51,6 @@
           AnalyticsServiceMonitoringPeriod
           AndroidApplicationExitReasonTimeDeltaSec
           AngularVelociryLimit
-          AnimationFromVideoCreatorStudioServiceSecondsPerRequest
           AnimationLodBoneLocomotionFixMaxDepth
           AnimationLodCleanupIntervalSeconds
           AnimationLodConfigVersion
@@ -755,7 +754,6 @@
           KeyRingMissingPointInfluxThresholdHundredths
           KeyRingParseErrorPointInfluxThresholdHundredths
           KeyRingUsingDynamicConfigTelemetryInfluxHundredths
-          kStudioBulkPropertyEditFromPropertiesWidgetThrottle
           LanguageFeaturesEventThrottleHundredthPercent
           LargePacketQueueSizeCutoffMB
           LatencyErrorMultiplierTennths
@@ -813,7 +811,6 @@
           LogExperienceLaunchAttemptThrottleHundredthsPercentage
           LogExperienceLaunchFailureThrottleHundredthsPercentage
           LogGroupTeleportInfluxPerTenThousand
-          LoginFailureStudioInfluxDbHundredthsPercentage
           LoginTelemetryHundredthsPercent
           LogLaunchDataDeepLinksThrottleHundredthsPercentage
           LogLineReportingHundredthsPercent
@@ -1773,46 +1770,6 @@
           StreamPauseVelBufFactorHundredths
           StreamToMinimumScale
           StrictStringConvertReportHundredthsPercentage
-          StudioConnectionIndicatorConditionalTelemetryThrottleHundrethsPercent
-          StudioConnectionIndicatorSwitchTelemetryThrottleHundrethsPercent
-          StudioConnectionIndicatorTelemetryThrottleHundrethsPercent
-          StudioCookieManagerStorageErrorHundredthsPercent
-          StudioEmbeddedAuthorizationDialogWebViewTracingHundredthsPercent
-          StudioGuacRequestHundredthsPercentage
-          StudioGUACRequestMaxRetryTimeoutMs
-          StudioInfluxHundredthsPercentage
-          StudioLexMapChangeDocAnalyticsThrottleHundredthsPercent2
-          StudioLocalPlacePublishOutcomeLoggingPerMyriad
-          StudioOldPlaceUploadFallbackSuccessLoggingPerMyriad
-          StudioOldPlaceUploadSpeedLoggingPerMyriad
-          StudioOpenPlaceFailureThrottleHundrethsPercent
-          StudioOpenRbxpHundredthsPercentage
-          StudioPercentScaleRepeatCount
-          StudioPerfermanceMeasurementEventSummaryThrottle
-          StudioPlaceSaveCompressionRatioLoggingPerMyriad
-          StudioPluginIdsPerModerationRequest
-          StudioPluginLoadTimingsHundredthsPercentage
-          StudioPluginPermissionsRequestPageSize
-          StudioReportActionsAsToolHundredths
-          StudioReportEmbeddedWebBrowserNavigationHundredthPercent
-          StudioReportFatalErrorHundredthsPercentage
-          StudioReportGetPlaceInfoHundredthsPercentage
-          StudioReportLuauExcessTimeInfluxHundredthsPercentage
-          StudioReportLuauExcessTimeInfluxPriorityHundredthsPercentage
-          StudioReportLuauExcessTimeMinMs
-          StudioReportLuauIceInfluxHundredthsPercentage
-          StudioReportLuauIceInfluxPriorityHundredthsPercentage
-          StudioReportLuauNewSolverUseInfluxHundredthsPercentage
-          StudioReportLuauNewSolverUseInfluxPriorityHundredthsPercentage
-          StudioReportLuauPerformanceStatsInfluxHundredthsPercentage
-          StudioReportLuauPerformanceStatsInfluxPriorityHundredthsPercentage
-          StudioReportLuauTimeoutInfluxHundredthsPercentage
-          StudioReportLuauTimeoutInfluxPriorityHundredthsPercentage
-          StudioReportStartupInfoInfluxHundredthsPercentage
-          StudioSyntaxHighlightingOnChangeAnalyticsThrottleHundredthsPercent2
-          StudioVideoImportHundredthsPercentage
-          StudioVideoImportSupportedMaxDurationSeconds
-          StudioWindowsCrashInfluxHundredthsPercentage
           SubscribePerMinuteLimit
           SubscribeRetriesOnReconnect
           SubscribeRetryInitialDelayMs
