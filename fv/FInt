@@ -130,11 +130,6 @@
            DebugSignalRHubConnectionDelayMs
            DebugSimPrimalGSLumpAlpha
            DebugSimPrimalNonlinearPrint
-           DebugStudioAssetProxyPort
-           DebugStudioDraftsServiceHostUnitTest
-           DebugStudioForceUpdateAfterMs
-           DebugStudioMeshSplitProcessInterval
-           DebugStudioOpenPlaceForceFailureOnReconnectUntilRetryCount
            DebugTextRenderingMaxDistance
            DebugTextureManagerSkipMips
            DebugVersionHistoryRecoverCommit
@@ -172,9 +167,6 @@
            EnvMapRaycastUpdateDistance
            EnvMapSecondsUntilCheckPointsClearWhenNotMoving
            EventReportLagThrottleHundredThousandths
-           EventStudioANRDetectedThrottling
-           EventStudioANRInProgressThrottling
-           EventStudioANRResolvedThrottling
            exampleTelemetryThrottleHundredthPercent
            ExplorerFilterAnalyticsDelayMs
            ExplorerHeaderDelayBetweenProcessingMs
@@ -476,8 +468,6 @@
            RenderShadowMapDepthCacheMemLimit
            RenderShadowMapDepthCacheMinNodes
            RenderShadowMapDepthCacheRecycleFrames
-           RenderStudioOccludedOutlineOpacity
-           RenderStudioTeamCreateOccludedOutlineOpacity
            RenderTextureManagerBudget
            RenderTextureManagerBudgetFor4k
            ReportDeviceInfoRollout
@@ -552,109 +542,6 @@
            StreamingSafeMemWatermarkMB
            StreamOutCompressionIdListLengthThreshold
            StreamOutOpportunisticMaxTargetPercentage
-           StudioActivityHeartbeatEverySeconds
-           StudioAnalyticsForScriptSizeThrottlePercent
-           StudioANRTimeoutMS
-           StudioAutoReconnectAttemptCountLimit
-           StudioAutoReconnectCountdownBackoffIncrementSeconds
-           StudioAutoReconnectCountdownMaxDurationSeconds
-           StudioAutoReconnectCountdownMinDurationSeconds
-           StudioBootstrapperVersionNumber
-           StudioBulkImporterMockUploadTimeInMs
-           StudioBulkImportInitialRetryTimeInSeconds
-           StudioBulkImportRetryBackoffFactor
-           StudioBulkImportRetryTimeoutInSeconds
-           StudioBulkImportTimeDelayInMilliseconds
-           StudioCheckTeamServerExistsFrequency
-           StudioClientPresenceUpdateInterval
-           StudioConnectionIndicatorHearbeatTimeout
-           StudioDataModelProxyTaskRunnerDefaultTimeoutMs
-           StudioEmbeddedAuthorizationDialogLoadingTimeoutMillis
-           StudioEnableHeartbeatsRolloutHundredthPercent
-           StudioEnableLocalSaveReportFailureHundredthPercentage
-           StudioEnableLocalSaveReportSuccessHundredthPercentage
-           StudioExportRetryRequestLimit
-           StudioExternalNotificationImplMessageWriteTimeOut
-           StudioFeatureActivityTrackerInactivityDurationSeconds
-           StudioFeatureActivityTrackerInactivityTimerIntervalSeconds
-           StudioFileWatcherDelayMs
-           StudioGamePageHandfulSize
-           StudioHeartbeatsIntervalSeconds
-           StudioHttpRequestDefaultJitterStdevInMs
-           StudioHttpRequestDefaultRetryInitialDelayInMs
-           StudioHttpRequestDefaultRetryMinDelayCapInMs
-           StudioHttpRequestDefaultRetryMultiplierTimes1000
-           StudioHttpRequestDefaultRetryTimes
-           StudioIgnoreImageThrottleAndRetryThresholdSeconds
-           StudioImportMaxAsset
-           StudioInsertDeletionCheckTimeMS
-           StudioLexMapChangeDocAnalyticsPerKeystrokeThrottleHundredthsPercent
-           StudioLoginEndSuccessThresholdMB
-           StudioLowMemoryThresholdMB
-           StudioMainWindowLowMemoryThresholdMB
-           StudioMaxDockCount
-           StudioMemoryInfoHundrethsPercent
-           StudioMemoryThresholdAllocationDivisor
-           StudioMeshPartScaleValue
-           StudioMessageReceiverDefaultTimeoutMs
-           StudioMigrateCreatePlaceToUniversesApiRolloutHundredthPercent
-           StudioMultiAccountSupportTelemtryHundredthsPercent
-           StudioNewPlaceUploadPublishRolloutHundredthPercent
-           StudioNewPlaceUploadSaveRolloutHundredthPercent
-           StudioNoANRCheckIntervals
-           StudioNotifyAliveAnalyticsTimerMs
-           StudioOomMemoryAllocIncrementMB
-           StudioOpenPlaceEndSuccessThresholdMB
-           StudioPackagesPublishAnalyticsNumOfTopClassName
-           StudioPersistPlayerCameraPositionSaveDelay
-           StudioPlaceOpenLowMemoryThresholdMB
-           StudioPlaceUploadSizeLimitBytes
-           StudioPlaySoloLowMemoryThresholdMB
-           StudioPluginCacheLowMemoryThresholdMB
-           StudioPluginIdsPerVersionRequest
-           StudioPluginOTAAllUserRolloutPercent
-           StudioPluginOTAInternalUserRolloutPercent
-           StudioPluginOTARolloutPercent
-           StudioPluginOTATimerIntervalRandomPercent
-           StudioPluginOTATimerIntervalSeconds
-           StudioRecentActionCacheSize
-           StudioReportCanManagePlaceHundredthsPercentage
-           StudioReportStudioOpenPlaceHundredthsPercentage
-           StudioReportStudioOperationsV1OpenPlaceHundredthsPercentage
-           StudioReportWindowsAudioServiceStatusesHundredthsPercent
-           StudioResendDisconnectNotificationInterval
-           StudioRobloxAnalyticsEventStreamLoadHundredth
-           StudioRPCMessageResponseTimeOut
-           StudioRPCMessageWriteTimeOut
-           StudioSandboxDraftsHardeningAsyncSavePauseSec
-           StudioSandboxDraftsHardeningAsyncSaveWaitSec
-           StudioSearchWithoutInsertionTimeSeconds
-           StudioSecondsBeforeInactive
-           StudioStartPlaySoloEndSuccessThresholdMB
-           StudioStartupLowMemoryThresholdMB
-           StudioStopPlaySoloEndSuccessThresholdMB
-           StudioSuccessCloseDialogInMs
-           StudioSyntaxHighlightingOnChangeAnalyticsPerKeystrokeHundredthsPercent
-           StudioTCConnectionDialogUpdateAttemptsIntervalMs
-           StudioTeamCreateConflictDelaySec
-           StudioTeamCreateConflictRetryCount
-           StudioTeamCreateDisconnectHandlingMaximumRetries
-           StudioTeamCreateGamejoinRequestRetryLimit
-           StudioTeamCreateGamejoinRequestTimeoutMs
-           StudioTeamCreateInitialConnectRetryLimit
-           StudioTeamCreateRCCPingCount
-           StudioThumbnailImageRetryInterval
-           StudioThumbnailImageRetryMaximum
-           StudioTimeoutTimeMs_ForAsyncRequestsBeforeQuit
-           StudioTreeWidgetEventProcessingTime
-           StudioTreeWidgetFilterTime
-           StudioTreeWidgetProcessingTime
-           StudioUpdateAvailityPollIntervalMs
-           StudioUserDataStoreRetryTimes
-           StudioValidateSaveMaxSizeKb
-           StudioWaitTimeMs_ForAsyncRequestsBeforeQuit
-           StudioWaitUntilLiveDMPluginWidgetsLoadedMs
-           StudioWebView2TelemetryHundredthsPercent
            SubscriptionDetailsCacheSize
            SubscriptionDetailsCacheTtlSeconds
            SubscriptionPageSize
